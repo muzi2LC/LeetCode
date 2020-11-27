@@ -11,7 +11,7 @@
 
 
 ## 文档结构
-1.DataStructure文件夹，主要学习C++中的标准库（STL）,依照标准库刷LeetCode的算法题目；
+1.DataStructure文件夹，主要学习C++中的标准库（STL）,依照数据结构刷LeetCode的算法题目；
 
 
 
