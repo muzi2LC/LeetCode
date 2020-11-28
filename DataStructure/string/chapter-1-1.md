@@ -1,5 +1,5 @@
 第一次：    
-C++
+```
 class Solution {
 public:
     string defangIPaddr(string address) {
@@ -14,7 +14,7 @@ public:
         return out;
     }
 };
-
+```
 
 查看题解：
 作者：[OrangeMan]<https://leetcode-cn.com/problems/defanging-an-ip-address/solution/cshuang-bai-by-orange-32/>
@@ -28,6 +28,7 @@ for (int i = 0; i < address.length(); i ++)
     }
 };
 方法二：
+```
 class Solution {
 public:
     string defangIPaddr(string address) {
@@ -38,6 +39,7 @@ public:
         return res;
     }
 };
+```
 总结：本人的程序和作者的方法二类似，在时间上都ok，但由于新建了一个string，占用一部分内存。而作者的方法一，直接在原字符串上操作，这样不占用额外的内存，在时间和空间利用效率上都达到最好
 
 这里需要注意的点：
@@ -45,6 +47,7 @@ public:
 2.本人程序中的使用的是string的at函数，实际上也是可以用下标操作符：两个符号的主要区别在于：at函数在索引越界时候，会抛出错误，而下标操作符号不会；
 
 对于replace函数，是在原来字符串的本身上操作，我们可以看到basic_string 中源代码传入的是引用；但是在返回的时候又在内存中创建了一个副本。如下代码所示：
+```
 #include <iostream>
 #include <string>
 using namespace std;
@@ -63,4 +66,5 @@ yousilly  010FFD6C
 yoyessilly  010FFD6C
 yoyessilly 010FFD48
 请按任意键继续. . .
+```
 
