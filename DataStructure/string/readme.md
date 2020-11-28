@@ -15,7 +15,7 @@ template \< class charT,  class traits = char_traits\<charT\>, class Alloc = all
 
 ## 刷题
 leetcode刷题  
-1.1108. IP 地址无效化   [答案](chapter-1-1.txt)  ## 学习相关知识
+1.1108. IP 地址无效化   [答案](chapter-1-1.txt)  
 
 
 
