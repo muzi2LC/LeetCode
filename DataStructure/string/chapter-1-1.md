@@ -17,8 +17,7 @@ public:
 
 
 查看题解：
-作者：OrangeMan
-链接：https://leetcode-cn.com/problems/defanging-an-ip-address/solution/cshuang-bai-by-orange-32/
+作者：[OrangeMan]<https://leetcode-cn.com/problems/defanging-an-ip-address/solution/cshuang-bai-by-orange-32/>
 方法一：
 class Solution {
 public:
