@@ -2,7 +2,8 @@
  fresher practice LeetCode
 
 ## 准备工作
-1.github中md文件是markdown文件，先初步学习怎么使用markdown文件，参考[菜鸟教程](https://www.runoob.com/markdown/md-tutorial.html);
+1.github中md文件是markdown文件，先初步学习怎么使用markdown文件，参考[菜鸟教程](https://www.runoob.com/markdown/md-tutorial.html);  
+2.[页内跳转](https://www.jianshu.com/p/0c5d6678ed6d)
 
 
 ## 学习资料来源
