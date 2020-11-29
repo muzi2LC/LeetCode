@@ -15,8 +15,9 @@ template \< class charT,  class traits = char_traits\<charT\>, class Alloc = all
 
 ## 刷题
 leetcode刷题  
-1.1108. IP 地址无效化   [答案](chapter-1-1.md)  
-2. 1614. 括号的最大嵌套深度  [答案](chapter-1-2.md)  
+1.1108. IP 地址无效化       [答案](chapter-1-1.md)  
+2.1614. 括号的最大嵌套深度  [答案](chapter-1-2.md)  
+3.1370. 上升下降字符串      [答案](chapter-1-3.md)
 
 
 
