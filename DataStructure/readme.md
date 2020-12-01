@@ -5,4 +5,5 @@
 
 ##  <span id="jump">直接看答案的题目</span>
 ### string
-1.[上升下降字符串](https://leetcode-cn.com/problems/increasing-decreasing-string/)
+1.[上升下降字符串](https://leetcode-cn.com/problems/increasing-decreasing-string/)  
+2.[唯一摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/)
