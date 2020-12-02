@@ -15,16 +15,16 @@ template \< class charT,  class traits = char_traits\<charT\>, class Alloc = all
 
 ## 刷题
 leetcode刷题  
-1.1108. IP 地址无效化       [答案](chapter-1-1.md)  
-2.1614. 括号的最大嵌套深度  [答案](chapter-1-2.md)  
-3.1370. 上升下降字符串      [答案](chapter-1-3.md)  
-4.1436. 分割平衡字符串      [答案](chapter-1-4.md)  
-5.1221. 旅行终点站          [答案](chapter-1-5.md)  
-6.657.  机器人能否返回原点 [答案](chapter-1-6.md)  
-7.804. 唯一摩尔斯密码词     [答案](chapter-1-7.md)  
-8.709. 转换成小写字母       [答案](chapter-1-8.md)   
-9.1309. 解码字母到整数映射    [答案](chapter-1-9.md)   
-10.344. 反转字符串           [答案](chapter-1-10.md) 
+1.1108. IP 地址无效化       [答案](chapter001.md)  
+2.1614. 括号的最大嵌套深度  [答案](chapter002.md)  
+3.1370. 上升下降字符串      [答案](chapter003.md)  
+4.1436. 分割平衡字符串      [答案](chapter004.md)  
+5.1221. 旅行终点站          [答案](chapter005.md)  
+6.657.  机器人能否返回原点 [答案](chapter006.md)  
+7.804. 唯一摩尔斯密码词     [答案](chapter007.md)  
+8.709. 转换成小写字母       [答案](chapter008.md)   
+9.1309. 解码字母到整数映射    [答案](chapter009.md)   
+10.344. 反转字符串           [答案](chapter010.md) 
 
 
 
