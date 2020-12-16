@@ -20,6 +20,7 @@ public:
 ```
 
 ### 优化第一版
+```
 class Solution {
 public:
     int findLUSlength(string a, string b) {
@@ -27,6 +28,7 @@ public:
         return a.size()>b.size()?a.size():b.size();
     }
 };
+```
 
 ### 分析总结
 分类讨论：
