@@ -44,5 +44,5 @@ public:
 };
 ```
 ## 分析
-string::find 的时间复杂度为o(m*n) 与map的查找时间复杂度为o（lg(n）)
+string::find 的时间复杂度为o(m*n) 与map的查找时间复杂度为o（lg(n）)  
 参考：http://www.cplusplus.com/reference/string/basic_string/find/ 和 http://www.cplusplus.com/reference/map/map/operator[]/
