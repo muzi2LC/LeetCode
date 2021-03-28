@@ -9,7 +9,7 @@ public:
         {
             if(isupper(word[i])) num++;
         }
-        if(num==word.size())  return true;
+        if(num==word.size()||num==0)  return true;
         if(num==1&&isupper(word[0]))  return true;
         return false;
     }
