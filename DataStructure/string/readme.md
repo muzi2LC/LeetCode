@@ -49,7 +49,10 @@ leetcode刷题
 32.[171. 字符串的最大公因子](chapter032.md)  
 33.[1446. 连续字符](chapter033.md)    
 34.[541. 反转字符串 II](chapter034.md)    
-35.[38. 外观数列](chapter035.md)   
+35.[38. 外观数列](chapter035.md)     
+36.[383. 赎金信](chapter036.md)  
+37.[917. 仅仅反转字母](chapter037.md)   
+38.
 
 
 
